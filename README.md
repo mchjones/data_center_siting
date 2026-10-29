@@ -1,4 +1,4 @@
-Balancing environmental impact with operational costs in data center siting
+# Balancing environmental impact with operational costs in data center siting
 
 This repository contains the data and code used for this project.
 
